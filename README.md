@@ -1,2 +1,2 @@
-# pse7en060393.github.io
-mini-project-1
+# mini-project-1
+Kodego mini-project 1
